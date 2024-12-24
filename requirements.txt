@@ -1,4 +1,4 @@
-https://pyrogram/pyrogram/zip/refs/heads/dev
+https://pyrogram/zip/refs/heads/dev
 TgCrypto
 pyromod
 pymongo
